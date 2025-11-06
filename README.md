@@ -1,19 +1,9 @@
-# 🎈 Blank app template
+# Bloobs Potion Calculator
 
-A simple Streamlit app template for you to modify!
+A simple calculator to show crafting requirements for potions in Bloobs Adventure Idle.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+## How to Run
+1. Make sure you have Python installed.
+2. Run with file downloaded
 
-### How to run it on your own machine
-
-1. Install the requirements
-
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+3. If you want a browser/web version, see branch: `streamlit`
